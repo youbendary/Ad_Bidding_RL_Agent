@@ -1,7 +1,7 @@
 # Ad Bidding Reinforcement Learning Agents 
 
-Trained reinforcement learning agents on ad records to optimize budget use in online keyword ad campaigns
-Implemented Q-Learning and DQN algorithms, to improve win rate on ad bids and implement steadier budget pacing vs. rule-based human bidding, maximizing clicks within budget limits
+- Trained reinforcement learning agents on ad records to optimize budget use in online keyword ad campaigns
+- Implemented Q-Learning and DQN algorithms, to improve win rate on ad bids and implement steadier budget pacing vs. rule-based human bidding, maximizing clicks within budget limits
 
 ## DQN Agent
 To reproduce the result in the [report](report.pdf) (cumulative average win rate being over 50% at the end of training), please clone the repository and run the following command in the terminal under the DQN_Agent folder: 
